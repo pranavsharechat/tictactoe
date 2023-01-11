@@ -1,0 +1,1 @@
+"C:\Users\prana\Desktop\UnrealEngine5\Engine\Binaries\Win64\UnrealEditor.exe" "C:\Users\prana\Desktop\UE4Projects\TicTacToe\TicTacToe.uproject" -game -log
